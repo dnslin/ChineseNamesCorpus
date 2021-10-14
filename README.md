@@ -1,3 +1,4 @@
+项目来自于[wainshine](https://github.com/wainshine/Chinese-Names-Corpus/)
 # 中文人名语料库（Chinese-Names-Corpus）
 业余项目“萌名NameMoe（一个基于语料库技术的取名工具）”的副产品。
 
